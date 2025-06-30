@@ -8,10 +8,9 @@
 # Project 8: Random Jokes Generator
 # Project 9: Github Profile Finder
 # Project 10: Articles Finder using wikipedia API
-
 # Project 11: Expenses Tracker(done)
 
-# Project 12: Task Manager Using Pinia
+# Project 12: Task Manager Using Pinia (using option store and setup store)
 # Project 13: Weather App using OpenweatherMap API
 # Project 14: URL shortner using BItly API
 # Project 15: CRUD using JSON mock server
